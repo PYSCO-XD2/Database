@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/303.0.0.30.122;FBBV/269803905;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/Telstra Mobile;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G610F;FBSV/6.0.1;nullFBCA/armeabi-v7a:armeabi;]
+
