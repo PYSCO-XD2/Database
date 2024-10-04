@@ -1,1 +1,1 @@
-
+[FBAN/FB4A;FBAV/465.0.0.60.83;FBBV/452016700;FBDM/{density=3.0,width=1440,height=3200};FBLC/en_GB;FBRV/452016700;FBCR/U Mobile;FBMF/Meizu;FBBD/Meizu;FBPN/com.facebook.katana;FBDV/M1812;FBSV/11;FBCA/armeabi-v7a:armeabi;]
