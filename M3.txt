@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/465.0.0.60.83;FBBV/452016700;FBDM/{density=3.0,width=1440,height=3200};FBLC/en_GB;FBRV/452016700;FBCR/U Mobile;FBMF/Meizu;FBBD/Meizu;FBPN/com.facebook.katana;FBDV/M1812;FBSV/11;FBCA/armeabi-v7a:armeabi;]
+Dalvik/2.1.0 (Linux; U; Android 8.6.5; LMQ925K Build/SQ3A.220419.050) [FBAN/FB4A;FBAV/182.0.0.44.77;FBPN/com.facebook.katana;FBLC/en_US;FBBV/118379519;FBCR/C-Spire Wireless;FBMF/LG;FBBD/lg;FBDV/LMQ925K;FBSV/8.6.5;FBCA/x86_64:x86:armeabi-v7a;FBDM/{density=2.0,width=1100,height=1769};FB_FW/1;]
