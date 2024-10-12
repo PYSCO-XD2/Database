@@ -1,1 +1,1 @@
-
+Dalvik/2.1.0 (Linux; U; Android 13.9.5; X713 Build/RP1A.200112.065) [FBAN/FB4A;FBAV/354.0.0.22.110;FBPN/com.facebook.katana;FBLC/fr_CA;FBBV/310813944;FBCR/Bell Mobilité;FBMF/Infinix;FBBD/infinix;FBDV/X713;FBSV/13.9.5;FBCA/arm64-v8a:;FBDM/{density=1.875,width=1317,height=2334};FB_FW/1;FBRV/311168022;] FBBK/1
