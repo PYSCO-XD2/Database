@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/303.0.0.30.122;FBBV/269803905;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/Telstra Mobile;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G610F;FBSV/6.0.1;nullFBCA/armeabi-v7a:armeabi;]
+Dalvik/2.1.0 (Linux; U; Android 14.8.4; PD25 Build/SP1A.180310.047) [FBAN/FB4A;FBAV/345.0.0.34.118;FBBV/309015953;FBDM/{density=1.625,width=702,height=1621};FBLC/en_AU;FBRV/309360963;FB_FW/2;FBCR/Dodo Mobile;FBMF/Tecno;FBBD/tecno;FBPN/com.facebook.katana;FBDV/PD25;FBSV/14.8.4;FBOP/20;FBCA/x86_64:x86:arm64-v8a;]
