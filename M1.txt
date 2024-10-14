@@ -1,1 +1,1 @@
-Dalvik/2.1.0 (Linux; U; Android 14.8.4; PD25 Build/SP1A.180310.047) [FBAN/FB4A;FBAV/345.0.0.34.118;FBBV/309015953;FBDM/{density=1.625,width=702,height=1621};FBLC/en_AU;FBRV/309360963;FB_FW/2;FBCR/Dodo Mobile;FBMF/Tecno;FBBD/tecno;FBPN/com.facebook.katana;FBDV/PD25;FBSV/14.8.4;FBOP/20;FBCA/x86_64:x86:arm64-v8a;]
+[FBAN/FB4A;FBAV/314.1.0.45.119;FBBV/314;FBDM/{density=3.0,width=1242,height=2208};FBLC/en_US;FBRV/314.1.0.45.119;FBCR/Banglalink;FBMF/Vivo_Y21;FBBD/Vivo_Y21;FBPN/com.facebook.katana;FBDV/Vivo_Y21_6_0;FBSV/6.0;FBOP/1;FBCA/x86:armeabi-v7a;]
