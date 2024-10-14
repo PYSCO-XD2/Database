@@ -1,1 +1,1 @@
-Dalvik/2.1.0 (Linux; U; Android 8.6.5; LMQ925K Build/SQ3A.220419.050) [FBAN/FB4A;FBAV/182.0.0.44.77;FBPN/com.facebook.katana;FBLC/en_US;FBBV/118379519;FBCR/C-Spire Wireless;FBMF/LG;FBBD/lg;FBDV/LMQ925K;FBSV/8.6.5;FBCA/x86_64:x86:armeabi-v7a;FBDM/{density=2.0,width=1100,height=1769};FB_FW/1;]
+[FBAN/FB4A;FBAV/314.1.0.45.119;FBBV/314;FBDM/{density=3.0,width=1242,height=2208};FBLC/it_IT;FBRV/314.1.0.45.119;FBCR/Banglalink;FBMF/Infinix_Note_8i;FBBD/Infinix_Note_8i;FBPN/com.facebook.katana;FBDV/Infinix_Note_8i_7_1_1;FBSV/7.1.1;FBOP/1;FBCA/x86:armeabi-v7a;]
