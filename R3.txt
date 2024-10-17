@@ -1,1 +1,1 @@
-
+[FBAN/FB4A;FBAV/29.0.0.0.4;FBBV/7071101;[FBAN/FB4A;FBAV/29.0.0.0.4;FBBV/7071101;FBDM/{density=2.9,width=1278,height=2417};FBLC/en_GB;FBCR/ID Mobile;FBMF/Samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-J105F;FBSV/6.5.1;FBCA/x86_64:arm64-v8a:armeabi-v7a;]
