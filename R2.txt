@@ -1,1 +1,1 @@
-Dalvik/2.1.0 (Linux; U; Android 8.0.0; SM-A530F Build/R16NW) [FBAN/MobileAdsManagerAndroid;FBAV/235.0.0.41.196;FBBV/251007414;FBRV/0;FBLC/en_US;FBMF/Samsung;FBBD/Samsung;FBDV/SM-A530F;FBSV/8.0.0;FBCA/arm64-v8a;FBDM/{density=2.7,width=1080,height=2220};FB_FW/1;]
+[FBAN/FB4A;FBAV/202.0.0.40.99;FBBV/135515094;[FBAN/FB4A;FBAV/202.0.0.40.99;FBBV/135515094;FBDM/{density=1.0,width=778,height=1975};FBLC/en_GB;FBCR/Vodafone;FBMF/Vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/X5 Pro;FBSV/9.7.1;FBCA/arm64-v8a:;]
