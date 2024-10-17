@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/427.0.0.31.63;FBBV/444411021;FBDM/{density=3.0,width=1080,height=2280};FBLC/bn_BD;FBRV/444411021;FBCR/T-Mobile;FBMF/Google;FBBD/Google;FBPN/com.facebook.katana;FBDV/G020J;FBSV/10;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/200.0.0.50.194;FBBV/133691590;[FBAN/FB4A;FBAV/200.0.0.50.194;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/133691590;FBCR/Peak Mobile;FBMF/Realme;FBBD/realme;FBDV/RMX3708;FBSV/9.8.5;FBCA/x86_64:armeabi-v7a;FBDM/{density=2.375,width=447,height=1657};FB_FW/1;]
