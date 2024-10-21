@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/234.0.0.30.115;FBBV/167211814;[FBAN/FB4A;FBAV/234.0.0.30.115;FBBV/167211814;FBDM/{density=3.75,width=776,height=1050};FBLC/en_US;FBCR/BanglalinkFBMF/Asus;FBBD/asus;FBPN/com.facebook.katana;FBDV/ZS671KS;FBSV/10.7.5;FBCA/x86:arm64-v8a:armeabi-v7a;]
+[FBAN/FB4A;FBAV/60.0.0.16.76;FBBV/20454115;FBDM/{density=2.0,width=720,height=1280};FBLC/ar_AR;FBCR/Orange;FBMF/infinix;FBBD/INFINIX;FBPN/com.facebook.katana;FBDV/Infinix HOT 3;FBSV/5.1;nullFBCA/armeabi-v7a:armeabi;]
